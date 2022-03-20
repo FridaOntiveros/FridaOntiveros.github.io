@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(2, 2, 37);
+    color: aliceblue;
+}
+.container{
+    background-color: black;    
+}
+.row{
+    background-color: rgb(47, 10, 82);
+}
+.col-4{
+    background-color: blueviolet;
+}
