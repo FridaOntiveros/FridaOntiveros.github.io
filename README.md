@@ -1,2 +1,2 @@
 # FridaOntiveros.github.io
-Mí página web
+Web page
